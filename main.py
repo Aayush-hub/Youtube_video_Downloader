@@ -2,7 +2,10 @@ from pytube import YouTube
 from tqdm import tqdm
 from time import sleep
 link = input("Enter Youtube video link here: \n")
-yout = YouTube(link)
+try:
+    yout = YouTube(link)
+except:
+    print("*******Age Restricted content********")
 print("Title: ",yout.title)
 video = yout.streams.get_highest_resolution()
 for i in tqdm(range(0, 100), desc ="Downloading"): 
