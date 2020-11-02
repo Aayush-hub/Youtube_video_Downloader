@@ -5,7 +5,6 @@
 ### Steps:
 - Fork this repository.
 - Clone the repo.
-  git clone 
 - Open in any IDE.
 - Run the program and enjoy video.
 - Star this repo if it helped you.
