@@ -9,4 +9,5 @@
 - Run the program and enjoy video.
 - Star this repo if it helped you.
 
-![Screenshot] (Capture.JPG)
+#### Screenshot
+![Screenshot](Capture.JPG)
