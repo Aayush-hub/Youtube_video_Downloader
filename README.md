@@ -1,6 +1,6 @@
 # Youtube_video_Downloader
 ### Pre-requisites:
-    pip install pytube
+    pip install pytube `or` git clone git://github.com/nficano/pytube.git
     pip install tqdm
 ### Steps:
 - Fork this repository.
